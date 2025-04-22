@@ -1,6 +1,7 @@
 //importando biblioteca para receber informação do usuário 
 const prompt = require('prompt-sync')();
 
+
 //declarando variável sem dados (undefined)
 let nota;
 
